@@ -1,7 +1,10 @@
 cython
-click==4.0
-nose==1.3.7
-flake8==2.4.1
-pysam==0.8.3
-pandas==0.16.2
+click #==4.0
+nose #==1.3.7
+flake8 #==2.4.1
+pysam #==0.8.3
+pandas #==0.16.2
 pybedtools
+pyvcf
+matplotlib
+git+ssh://git@bitbucket.org/salturki/bx-python#egg=bx-python
